@@ -1,0 +1,56 @@
+header{
+    background-color:green;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: lawngreen;
+}
+
+img{
+    
+    height: 200px;
+}
+
+body{
+    text-shadow: 6px 15px 6px black;
+    background-color: #eef4ee;
+}
+
+.unknown{
+    list-style: none;
+    padding-top: 70px;
+}
+
+h1{
+    text-align: center;
+    padding: 100px;
+}
+
+header{
+    background-image: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg);
+    color: green;
+    height: 400px; 
+    font-size: 23px;  
+    
+}
+
+.unknown ,.header-title{
+    color: green;
+   
+}
+.header-title{
+    color: yellow;
+}
+
+.interests{
+    background-image: url(https://t4.ftcdn.net/jpg/01/72/47/97/240_F_172479741_80qVthaZi8mInmzK6YklNu5GTJnXJK7I.jpg);
+    
+}
+
+footer{
+    text-align: center;
+    padding-top: 44px;
+    background-color: #edf3ec;
+    height: 117px;
+    font-weight: 400;
+}
